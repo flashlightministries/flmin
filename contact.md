@@ -6,7 +6,8 @@ title: Contact Us
 
 ### Call
 
-    541.975.4290
+    T. C. Howitt
+    541.786.4830
 
 ### Visit
 
