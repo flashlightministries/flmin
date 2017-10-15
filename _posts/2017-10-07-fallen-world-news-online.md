@@ -1,5 +1,5 @@
 ---
-layout: post-feature
+layout: post
 title: Flashlight Ministries launches Fallen World News
 image:
   feature: http://fallenworldnews.com/images/globe-flush.png
