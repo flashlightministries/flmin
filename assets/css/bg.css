@@ -1,5 +1,4 @@
 html {  
   background-image: url("images/flmin-logo.jpg");
-  background-repeat: no-repeat, no-repeat, repeat-x;
-  background-position: top left, top right, top;
+  background-size: cover
 }
